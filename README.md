@@ -12,10 +12,10 @@
 * 디자인패턴 (Design Pattern)
 * 알고리즘 (Algorithm)
 
-## Advenced & Mathematics
+## Advanced & Mathematics
 
 * 수치해석 (Numerical Analysis)
-* 선형대수 (Linear Agebra)
+* 선형대수 (Linear Algebra)
 * 통계학 (statistics)
 
 ## Languages
