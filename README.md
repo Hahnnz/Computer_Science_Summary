@@ -5,19 +5,19 @@
 
 ## Basic
 
-* 자료구조 (Data Structure)
-* 네트워크 (Network)
-* 운영체제 (Operating System)
-* 데이터베이스 (Database)
-* 디자인패턴 (Design Pattern)
-* 알고리즘 (Algorithm)
+* [자료구조 (Data Structure)]()
+* [네트워크 (Network)]()
+* [운영체제 (Operating System)]()
+* [데이터베이스 (Database)]()
+* [디자인패턴 (Design Pattern)]()
+* [알고리즘 (Algorithm)](./Basic/algorithm)
 
 ## Advanced & Mathematics
 
-* 수치해석 (Numerical Analysis)
-* 선형대수 (Linear Algebra)
-* 통계학 (statistics)
+* [수치해석 (Numerical Analysis)]()
+* [선형대수 (Linear Algebra)]()
+* [통계학 (statistics)]()
 
 ## Languages
-* Cpp
-* Python
+* [C++]()
+* [Python]()
