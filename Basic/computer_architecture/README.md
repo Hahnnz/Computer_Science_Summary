@@ -1,1 +1,1 @@
-# 자료구조
+# 컴퓨터구조 (Computer Architecture)
