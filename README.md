@@ -11,6 +11,7 @@
 * [데이터베이스 (Database)](./Basic/database)
 * [디자인패턴 (Design Pattern)](./Basic/design_pattern)
 * [알고리즘 (Algorithm)](./Basic/algorithm)
+* [컴퓨터구조 (Computer Architecture)](./Basic/computer_architecture)
 
 ## Advanced & Mathematics
 
